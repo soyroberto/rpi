@@ -14,4 +14,4 @@
 7. Network Load
 8. Upstream Resolver Latency
 ***
-***Also, plan to export Pihole logs to Log Analytics**
+**Also, plan to export Pihole logs to Log Analytics**
