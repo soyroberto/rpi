@@ -5,8 +5,7 @@
 #### Instead of having a raspberry PI on my local network or a docker container running PIHOLE I decided to test the service on Azure running on an Ubuntu VM, Standard B2ts v2 (2 vcpus, 1 GiB memory)
 
 *** Some considerations and number verificiations I'll make: ***
-*** 1. Query response, latency 
--   Average Response Time 
+1. Query response, Average Response Time 
 2. Queries Per second
 3. Pihole Uptime
 4. Cache Hit Rate
