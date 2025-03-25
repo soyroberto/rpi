@@ -133,6 +133,7 @@ resource "azurerm_public_ip" "lb" {
   sku = "Standard"
 }
 
+# made some manual changes to the LB configuration for debugging and later deleted from the state file
 # resource "azurerm_lb" "pihole" {
 #   name                = var.lb_name
 #   location            = azurerm_resource_group.new.location
